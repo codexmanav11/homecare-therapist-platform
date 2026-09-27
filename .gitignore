@@ -1,0 +1,25 @@
+# Backend
+unfazed-backend-springboot/target/
+unfazed-backend-springboot/.mvn/
+unfazed-backend-springboot/*.iml
+unfazed-backend-springboot/.idea/
+
+# Frontend
+unfazed-frontend/node_modules/
+unfazed-frontend/dist/
+unfazed-frontend/.vite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
